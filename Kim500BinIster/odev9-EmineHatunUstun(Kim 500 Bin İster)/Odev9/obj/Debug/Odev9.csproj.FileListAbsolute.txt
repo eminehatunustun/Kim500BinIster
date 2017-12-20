@@ -1,0 +1,27 @@
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\bin\Debug\Odev9.exe.config
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\bin\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\bin\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.Form1.resources
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.Properties.Resources.resources
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.csproj.GenerateResource.Cache
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\ödevler\Odev9\Odev9\obj\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\bin\Debug\Odev9.exe.config
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\bin\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\bin\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.Form1.resources
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.Properties.Resources.resources
+C:\Users\Emine Hatun\Desktop\deneme\Odev9\obj\Debug\Odev9.csproj.GenerateResource.Cache
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\bin\Debug\Odev9.exe.config
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\bin\Debug\Odev9.exe
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\bin\Debug\Odev9.pdb
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.Form1.resources
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.Properties.Resources.resources
+C:\Users\Emine Hatun\Desktop\odev9-EmineHatunUstun(Kim 500 Bin İster)\Odev9\obj\Debug\Odev9.csproj.GenerateResource.Cache
